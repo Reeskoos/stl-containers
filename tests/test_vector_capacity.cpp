@@ -2,7 +2,7 @@
 
 #include "tests_init.h"
 
-using namespace s21;
+using s21::vector;
 
 TEST(S21VectorcapacityTest, Capacity1) {
   vector<int> v;
