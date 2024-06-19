@@ -2,7 +2,7 @@
 
 #include "tests_init.h"
 
-using namespace s21;
+using s21::stack;
 
 TEST(S21StackTest, Initialize1) {
   stack<int> s1;
